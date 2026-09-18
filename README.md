@@ -6,7 +6,7 @@
 
 # Hi! I'm Aitor <img src="https://media.giphy.com/media/UvXN0o8K12d9bNl14t/giphy.gif" width="35px" alt="Goku wave">
 
-Welcome to my GitHub profile! I am a first-year student of **Multiplatform App Development (DAM)** at **Instituto Tecnológico de Barcelona (ITB)**. I use this space to save my class projects and track my coding journey.
+ I am a first-year student of **Multiplatform App Development (DAM)** at **Instituto Tecnológico de Barcelona (ITB)**. I use this space to save my class projects and track my coding journey.
 
 ### 👨‍💻 About me
 
