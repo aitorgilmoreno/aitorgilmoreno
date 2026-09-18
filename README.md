@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR ANIMADO (Goku volando) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/c8Qx4p1wQkF50tE6lY/giphy.gif" width="100%" alt="Goku Banner" />
+  <img src="[https://media.giphy.com/media/c8Qx4p1wQkF50tE6lY/giphy.gif" width="100%" alt="Goku Banner](https://mx.pinterest.com/pin/747456869441032203/)" />
 </p>
 
 # Hi! I'm Aitor 👋
