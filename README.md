@@ -1,3 +1,8 @@
+<!-- BANNER SUPERIOR ANIMADO (Goku volando) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/c8Qx4p1wQkF50tE6lY/giphy.gif" width="100%" alt="Goku Banner" />
+</p>
+
 # Hi! I'm Aitor 👋
 
  I am a first-year student of **Multiplatform App Development (DAM)** at **Instituto Tecnológico de Barcelona (ITB)**. I use this space to save my class projects and track my coding journey.
