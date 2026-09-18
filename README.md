@@ -1,7 +1,4 @@
-<!-- BANNER SUPERIOR ANIMADO (Goku) -->
-<p align="center">
-  <img src="[https://media.giphy.com/media/c8Qx4p1wQkF50tE6lY/giphy.gif" width="100%" alt="Goku Banner Powering Up](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRibXFiMjF5NGY3dTZhYW9obzhzZTJ3YnEydzhodjhndHhtYzI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vThGQEkz4f9eg/giphy.gif)" />
-</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRibXFiMjF5NGY3dTZhYW9obzhzZTJ3YnEydzhodjhndHhtYzI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vThGQEkz4f9eg/giphy.gif" width="400px" alt="Goku training">
 </p>
