@@ -1,18 +1,18 @@
-<!-- BANNER SUPERIOR ANIMADO (Goku volando) -->
+<!-- BANNER SUPERIOR ANIMADO (Enlace Directo Corregido) -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/c8Qx4p1wQkF50tE6lY/giphy.gif" width="100%" alt="Goku Banner](https://mx.pinterest.com/pin/747456869441032203/)" />
+  <img src="https://media.giphy.com/media/c8Qx4p1wQkF50tE6lY/giphy.gif" width="100%" alt="Goku Banner Powering Up" />
 </p>
 
 # Hi! I'm Aitor 👋
 
- I am a first-year student of **Multiplatform App Development (DAM)** at **Instituto Tecnológico de Barcelona (ITB)**. I use this space to save my class projects and track my coding journey.
+Welcome to my GitHub profile! I am a first-year student of **Multiplatform App Development (DAM)** at **Instituto Tecnológico de Barcelona (ITB)**. I use this space to save my class projects and track my coding journey.
 
 ### 👨‍💻 About me
 
-- 🎓 I'm learning how to build software at **ITB**.
-- 🌱 Right now, I am studying Java, databases, and programming logic.
-- 💡 I want to collaborate on simple projects to get more practice.
-- 💬 Ask me about my classes or share tips for coding beginners!
+*   🎓 I'm learning how to build software at **ITB**.
+*   🌱 Right now, I am studying Java, databases, and programming logic.
+*   💡 I want to collaborate on simple projects to get more practice.
+*   💬 Ask me about my classes or share tips for coding beginners!
 
 ### 🛠️ My Tools
 
@@ -22,4 +22,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
